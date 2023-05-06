@@ -9,6 +9,7 @@ This is a simple Note Taker that can be used to write and save notes. This appli
 
 
 Video-Demo: 
+[Video.webm](https://user-images.githubusercontent.com/128992593/236589758-634bbbb5-7e00-46fb-ab0a-9525cae9d68b.webm)
 
 ## Table Of Contents
 
@@ -28,7 +29,7 @@ AS A small business owner
 I WANT to be able to write and save notes
 SO THAT I can organize my thoughts and keep track of tasks I need to complete
 ```
-
+## Acceptance Criteria
 ```
 GIVEN a note-taking application
 WHEN I open the Note Taker
@@ -51,7 +52,7 @@ To run this project we need to install Node.js. Then create a `.gitignore` file 
 
  ## License
 
-  [MIT License]
+  MIT License
 
  ## Contributors
   - Reshma Paul
@@ -61,4 +62,4 @@ To run this project we need to install Node.js. Then create a `.gitignore` file 
   If you have any Questions,<br>
   Contact me at [snowley777@gmail.com](#email)<br>
 
-  URL to GitHub: [GibHub](https://github.com/reshmalijo777/Note-Taker)
+  URL to GitHub: [GibHub](https://github.com/reshmalijo777)
