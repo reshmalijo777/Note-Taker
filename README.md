@@ -62,4 +62,4 @@ To run this project we need to install Node.js. Then create a `.gitignore` file 
   If you have any Questions,<br>
   Contact me at [snowley777@gmail.com](#email)<br>
 
-  URL to GitHub: [GibHub](https://github.com/reshmalijo777/Note-Taker)
+  URL to GitHub: [GibHub](https://github.com/reshmalijo777)
