@@ -52,7 +52,7 @@ To run this project we need to install Node.js. Then create a `.gitignore` file 
 
  ## License
 
-  [MIT License]
+  [MIT License](#MIT License)
 
  ## Contributors
   - Reshma Paul
