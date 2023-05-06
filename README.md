@@ -5,8 +5,8 @@ Challenge-11
 
 This is a simple Note-taker app which consist of a note title and text. We use Express.js as back-end and is hosted on Heroku.
 
-URL to Heroku: [Heroku](https://huroku-note-taker.herokuapp.com/)
-URL to GitHub: [GibHub](https://github.com/reshmalijo777/Note-Taker)
+- URL to Heroku: [Heroku](https://huroku-note-taker.herokuapp.com/)
+
 
 Video-Demo: 
 
@@ -51,4 +51,6 @@ To run this project we need to install Node.js. Then create a `.gitignore` file 
   ## Questions
 
   If you have any Questions,<br>
-  Contact me at [snowley777@gmail.com](#email)
+  Contact me at [snowley777@gmail.com](#email)<br>
+
+  URL to GitHub: [GibHub](https://github.com/reshmalijo777/Note-Taker)
