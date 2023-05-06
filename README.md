@@ -3,7 +3,7 @@ Challenge-11
 
 ## DESCRIPTION
 
-This is a simple Note-taker app which consist of a note title and text. We use Express.js as back-end and is hosted on Heroku.
+This is a simple Note Taker that can be used to write and save notes. This application will use an Express.js back end and will save and retrieve note data from a JSON file. We use Heruko to host this application.
 
 - URL to Heroku: [Heroku](https://huroku-note-taker.herokuapp.com/)
 
