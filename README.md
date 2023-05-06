@@ -9,6 +9,7 @@ This is a simple Note-taker app which consist of a note title and text. We use E
 
 
 Video-Demo: 
+[Video.webm](https://user-images.githubusercontent.com/128992593/236589758-634bbbb5-7e00-46fb-ab0a-9525cae9d68b.webm)
 
 ## Table Of Contents
 
