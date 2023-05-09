@@ -22,9 +22,15 @@ app.get("/notes",(req,res) =>
 
 
 // GET request for notes
-app.get('api/notes', (req, res) => {
-    res.status(200).json(`${req.method} request received to get notes`);
-  });
+app.get('/api/notes', (req, res) => {
+  fs.readFile('./db/db.json','utf-8',(err,data)=>{
+    if(err){
+      console.log(err)
+    }else{
+      res.json(JSON.parse(data));
+    }
+   })
+   });
 
 
 // POST request for notes
