@@ -5,11 +5,11 @@ Challenge-11
 
 This is a simple Note Taker that can be used to write and save notes. This application will use an Express.js back end and will save and retrieve note data from a JSON file. We use Heruko to host this application.
 
-- URL to Heroku: [Heroku](https://huroku-note-taker.herokuapp.com/)
+- URL to Heroku: [Heroku](https://huroku-note-taker.herokuapp.com)
 
 
 Video-Demo: 
-[Video.webm](https://user-images.githubusercontent.com/128992593/236589758-634bbbb5-7e00-46fb-ab0a-9525cae9d68b.webm)
+[video.webm](https://user-images.githubusercontent.com/128992593/236966412-ba43e9ca-70a8-4616-9f26-4c611795be90.webm)
 
 ## Table Of Contents
 
