@@ -9,7 +9,8 @@ This is a simple Note Taker that can be used to write and save notes. This appli
 
 
 Video-Demo: 
-[Video.webm](https://user-images.githubusercontent.com/128992593/236966971-b11c26ee-053c-4f0e-b32a-67180e9c9c69.webm)
+[Video.webm](https://user-images.githubusercontent.com/128992593/236968088-2090f8a9-0674-493d-8798-ad7376c462e6.webm)
+
 ## Table Of Contents
 
   * [Usage](#usage)
